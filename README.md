@@ -1,16 +1,23 @@
-## 📝 BOOTCAMP QUÉBEC JAVA DIGITAL - DIO._(Digital Innovation One)
-Este repositório trata-se dos conteúdos do bootcamp da DIO em desenvolvimento em back-end com Java e Spring Framework.
+# 📌 **Formação Java Developer - DIO**
+Formação Java developer da trilha de Back-End da DIO.
 
-## 📚 Descrição
-O Bootcamp consiste em 5 módulos:
-- Prepare-se Para a jornada;
-- Princípios de Desenvolvimento de software;
-- Dominando a linguagem de programação Java;
-- Banco de Dados Relacionais (SQL)
-- Avançando tecnicamente com Spring Framework e API;
+- Carga horária: 76h
+- Desafios de Projeto: 7
+- Desafios de Código: 10
 
-## 💡 Objetivo
-Desenvolver habilidades em Java e com o spring framework.
+<br>
+
+## 📎 **Sumário**
+
+- **Módulo 01:** Fundamentos da Plataforma Java;
+- **Módulo 02:** Escopos e Estruturas de Controle Java;
+- **Módulo 03:** Programação Orientada a Objetos em Java;
+- **Módulo 04:** Estruturas de Dados e API de Streams em Java;
+- **Módulo 05:** Gerenciamento de Depêndencias e Build em projetos Java;
+- **Módulo 06:** Qualidade do código e Boas Práticas com Java;
+- **Módulo 07:** Conhecendo o Spring Framework;
+
+<br>
 
 ## 🙋🏻‍♂️ Autor
 Bruno Oliveira
