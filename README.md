@@ -19,5 +19,40 @@ Formação Java developer da trilha de Back-End da DIO.
 
 <br>
 
+## 🏆 **Desafios de Código**
+
+<br>
+
+<table border=1>
+    <tr>
+        <th colspan="3" style="text-align:center"><b>FORMAÇÃO JAVA DEVELOPER</b></th>
+    </tr>
+    <tr>
+        <th colspan="3" style="text-align:center">Desafios de Código Básico</th>
+    </tr>
+    <tr>
+        <th style="text-align:center">Desafio</th>
+        <th style="text-align:center">Solução</th>
+        <th style="text-align:center">Status</th>
+    </tr>
+    <tr>
+        <td align="center">Multiplicação Simples</td>
+        <td align="center"><a href="#">Código</a></td>
+        <td align="center">✅</td>
+    </tr>
+    <tr>
+        <td align="center">Soma Simples</td>
+        <td align="center"><a href="#">Código</a></td>
+        <td align="center">✅</td>
+    </tr>
+    <tr>
+        <td align="center">Media 1</td>
+        <td align="center"><a href="#">Código</a></td>
+        <td align="center">✅</td>
+    </tr>
+</table>
+
+<br>
+
 ## 🙋🏻‍♂️ Autor
 Bruno Oliveira
