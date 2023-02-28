@@ -37,17 +37,17 @@ Formação Java developer da trilha de Back-End da DIO.
     </tr>
     <tr>
         <td align="center">Multiplicação Simples</td>
-        <td align="center"><a href="#">Código</a></td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Formacao-Java-Developer-DIO/tree/main/TRILHA-JAVA-MODULO-01/DESAFIO-DE-CODIGO/DESAFIO-DE-CODIGO-01">Código</a></td>
         <td align="center">✅</td>
     </tr>
     <tr>
         <td align="center">Soma Simples</td>
-        <td align="center"><a href="#">Código</a></td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Formacao-Java-Developer-DIO/tree/main/TRILHA-JAVA-MODULO-01/DESAFIO-DE-CODIGO/DESAFIO-DE-CODIGO-02">Código</a></td>
         <td align="center">✅</td>
     </tr>
     <tr>
         <td align="center">Media 1</td>
-        <td align="center"><a href="#">Código</a></td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Formacao-Java-Developer-DIO/tree/main/TRILHA-JAVA-MODULO-01/DESAFIO-DE-CODIGO/DESAFIO-DE-CODIGO-03">Código</a></td>
         <td align="center">✅</td>
     </tr>
 </table>
