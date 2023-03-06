@@ -54,5 +54,30 @@ Formação Java developer da trilha de Back-End da DIO.
 
 <br>
 
+## ⭐ **Desafios de Projeto**
+
+<br>
+
+<table border=1>
+    <tr>
+        <th colspan="4" style="text-align:center"><b>FORMAÇÃO JAVA DEVELOPER</b></th>
+    </tr>
+    <tr>
+        <th colspan="4" style="text-align:center">Desafios de Projeto</th>
+    </tr>
+    <tr>
+        <th style="text-align:center">Desafio</th>
+        <th style="text-align:center">Solução</th>
+        <th style="text-align:center">Status</th>
+    </tr>
+    <tr>
+        <td align="center">Simulando uma Conta Bancaria Através do Terminal</td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Conta-Bancaria-Java">Código</a></td>
+        <td align="center">✅</td>
+    </tr>
+</table>
+
+<br>
+
 ## 🙋🏻‍♂️ Autor
 Bruno Oliveira
